@@ -1,0 +1,1602 @@
+# Woo Event Tickets - Translation Template
+msgid ""
+msgstr ""
+"Project-Id-Version: Woo Event Tickets 1.0.0\n"
+"Report-Msgid-Bugs-To: https://warpfix.org/support\n"
+"POT-Creation-Date: 2026-09-10 00:00+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: woo-event-tickets.php:73
+msgid "Event Tickets"
+msgstr ""
+
+#: woo-event-tickets.php:74
+msgid "Event Tickets"
+msgstr ""
+
+#: woo-event-tickets.php:75
+msgid "Dashboard"
+msgstr ""
+
+#: woo-event-tickets.php:76
+msgid "Events"
+msgstr ""
+
+#: woo-event-tickets.php:77
+msgid "Ticket Types"
+msgstr ""
+
+#: woo-event-tickets.php:78
+msgid "Tickets"
+msgstr ""
+
+#: woo-event-tickets.php:79
+msgid "Scanner"
+msgstr ""
+
+#: woo-event-tickets.php:80
+msgid "Check-ins"
+msgstr ""
+
+#: woo-event-tickets.php:81
+msgid "Staff"
+msgstr ""
+
+#: woo-event-tickets.php:82
+msgid "Reports"
+msgstr ""
+
+#: woo-event-tickets.php:83
+msgid "Settings"
+msgstr ""
+
+#: includes/admin/class-wet-admin.php:25
+msgid "Event Tickets Dashboard"
+msgstr ""
+
+#: includes/admin/class-wet-admin.php:28
+msgid "Total Tickets Sold"
+msgstr ""
+
+#: includes/admin/class-wet-admin.php:33
+msgid "Checked In"
+msgstr ""
+
+#: includes/admin/class-wet-admin.php:38
+msgid "Total Revenue"
+msgstr ""
+
+#: includes/admin/class-wet-admin.php:43
+msgid "Active Events"
+msgstr ""
+
+#: includes/admin/class-wet-admin.php:55
+msgid "Upcoming Events"
+msgstr ""
+
+#: includes/admin/class-wet-admin.php:59
+msgid "Event"
+msgstr ""
+
+#: includes/admin/class-wet-admin.php:60
+msgid "Date"
+msgstr ""
+
+#: includes/admin/class-wet-admin.php:61
+msgid "Venue"
+msgstr ""
+
+#: includes/admin/class-wet-admin.php:62
+msgid "Sold"
+msgstr ""
+
+#: includes/admin/class-wet-admin.php:63
+msgid "Revenue"
+msgstr ""
+
+#: includes/admin/class-wet-admin.php:64
+msgid "Actions"
+msgstr ""
+
+#: includes/admin/class-wet-admin.php:70
+msgid "Quick Actions"
+msgstr ""
+
+#: includes/admin/class-wet-admin.php:73
+msgid "New Event"
+msgstr ""
+
+#: includes/admin/class-wet-admin.php:75
+msgid "New Ticket Type"
+msgstr ""
+
+#: includes/admin/class-wet-admin.php:77
+msgid "Open Scanner"
+msgstr ""
+
+#: includes/admin/class-wet-admin.php:79
+msgid "Add Staff"
+msgstr ""
+
+#: includes/admin/class-wet-admin.php:81
+msgid "View Reports"
+msgstr ""
+
+#: includes/admin/views/events-list.php:12
+msgid "Events"
+msgstr ""
+
+#: includes/admin/views/events-list.php:13
+msgid "Add New Event"
+msgstr ""
+
+#: includes/admin/views/events-list.php:21
+msgid "Event saved successfully."
+msgstr ""
+
+#: includes/admin/views/events-list.php:23
+msgid "Event created successfully."
+msgstr ""
+
+#: includes/admin/views/events-list.php:25
+msgid "Event deleted successfully."
+msgstr ""
+
+#: includes/admin/views/events-list.php:29
+msgid "All Statuses"
+msgstr ""
+
+#: includes/admin/views/events-list.php:30
+msgid "Draft"
+msgstr ""
+
+#: includes/admin/views/events-list.php:31
+msgid "Published"
+msgstr ""
+
+#: includes/admin/views/events-list.php:32
+msgid "Completed"
+msgstr ""
+
+#: includes/admin/views/events-list.php:33
+msgid "Cancelled"
+msgstr ""
+
+#: includes/admin/views/events-list.php:34
+msgid "Search events..."
+msgstr ""
+
+#: includes/admin/views/events-list.php:35
+msgid "Filter"
+msgstr ""
+
+#: includes/admin/views/events-list.php:41
+msgid "Banner"
+msgstr ""
+
+#: includes/admin/views/events-list.php:43
+msgid "Date & Time"
+msgstr ""
+
+#: includes/admin/views/events-list.php:45
+msgid "Status"
+msgstr ""
+
+#: includes/admin/views/events-list.php:46
+msgid "Capacity"
+msgstr ""
+
+#: includes/admin/views/events-list.php:47
+msgid "Tickets Sold"
+msgstr ""
+
+#: includes/admin/views/events-list.php:48
+msgid "Edit"
+msgstr ""
+
+#: includes/admin/views/events-list.php:49
+msgid "Tickets"
+msgstr ""
+
+#: includes/admin/views/events-list.php:50
+msgid "Attendees"
+msgstr ""
+
+#: includes/admin/views/events-list.php:51
+msgid "Scanner"
+msgstr ""
+
+#: includes/admin/views/events-list.php:59
+msgid "No events found."
+msgstr ""
+
+#: includes/admin/views/events-list.php:60
+msgid "Create Your First Event"
+msgstr ""
+
+#: includes/admin/views/event-form.php:12
+msgid "Edit Event"
+msgstr ""
+
+#: includes/admin/views/event-form.php:12
+msgid "Add New Event"
+msgstr ""
+
+#: includes/admin/views/event-form.php:13
+msgid "Back to Events"
+msgstr ""
+
+#: includes/admin/views/event-form.php:17
+msgid "General"
+msgstr ""
+
+#: includes/admin/views/event-form.php:18
+msgid "Schedule"
+msgstr ""
+
+#: includes/admin/views/event-form.php:19
+msgid "Venue"
+msgstr ""
+
+#: includes/admin/views/event-form.php:20
+msgid "Branding"
+msgstr ""
+
+#: includes/admin/views/event-form.php:21
+msgid "Organizer"
+msgstr ""
+
+#: includes/admin/views/event-form.php:25
+msgid "Event Name"
+msgstr ""
+
+#: includes/admin/views/event-form.php:30
+msgid "Slug"
+msgstr ""
+
+#: includes/admin/views/event-form.php:33
+msgid "Description"
+msgstr ""
+
+#: includes/admin/views/event-form.php:38
+msgid "Banner Image URL"
+msgstr ""
+
+#: includes/admin/views/event-form.php:42
+msgid "Logo Image URL"
+msgstr ""
+
+#: includes/admin/views/event-form.php:48
+msgid "Start Date & Time"
+msgstr ""
+
+#: includes/admin/views/event-form.php:53
+msgid "End Date & Time"
+msgstr ""
+
+#: includes/admin/views/event-form.php:58
+msgid "Timezone"
+msgstr ""
+
+#: includes/admin/views/event-form.php:63
+msgid "Venue Capacity (Attendees)"
+msgstr ""
+
+#: includes/admin/views/event-form.php:68
+msgid "Status"
+msgstr ""
+
+#: includes/admin/views/event-form.php:75
+msgid "Venue Name"
+msgstr ""
+
+#: includes/admin/views/event-form.php:79
+msgid "Address"
+msgstr ""
+
+#: includes/admin/views/event-form.php:83
+msgid "City"
+msgstr ""
+
+#: includes/admin/views/event-form.php:87
+msgid "State/Province"
+msgstr ""
+
+#: includes/admin/views/event-form.php:91
+msgid "Country"
+msgstr ""
+
+#: includes/admin/views/event-form.php:95
+msgid "Postal Code"
+msgstr ""
+
+#: includes/admin/views/event-form.php:101
+msgid "Primary Color"
+msgstr ""
+
+#: includes/admin/views/event-form.php:107
+msgid "Secondary Color"
+msgstr ""
+
+#: includes/admin/views/event-form.php:111
+msgid "Footer Text"
+msgstr ""
+
+#: includes/admin/views/event-form.php:117
+msgid "Organizer Name"
+msgstr ""
+
+#: includes/admin/views/event-form.php:121
+msgid "Organizer Email"
+msgstr ""
+
+#: includes/admin/views/event-form.php:125
+msgid "Organizer Phone"
+msgstr ""
+
+#: includes/admin/views/event-form.php:129
+msgid "Website URL"
+msgstr ""
+
+#: includes/admin/views/event-form.php:133
+msgid "Social Links (JSON)"
+msgstr ""
+
+#: includes/admin/views/event-form.php:139
+msgid "Update Event"
+msgstr ""
+
+#: includes/admin/views/event-form.php:139
+msgid "Create Event"
+msgstr ""
+
+#: includes/admin/views/event-form.php:140
+msgid "Cancel"
+msgstr ""
+
+#: includes/admin/views/ticket-types-list.php:12
+msgid "Ticket Types"
+msgstr ""
+
+#: includes/admin/views/ticket-types-list.php:13
+msgid "Add Ticket Type"
+msgstr ""
+
+#: includes/admin/views/ticket-types-list.php:17
+msgid "Filter by Event"
+msgstr ""
+
+#: includes/admin/views/ticket-types-list.php:21
+msgid "Ticket type saved successfully."
+msgstr ""
+
+#: includes/admin/views/ticket-types-list.php:23
+msgid "Ticket type created successfully."
+msgstr ""
+
+#: includes/admin/views/ticket-types-list.php:25
+msgid "Ticket type deleted successfully."
+msgstr ""
+
+#: includes/admin/views/ticket-types-list.php:32
+msgid "Please select an event from the dropdown to view its ticket types."
+msgstr ""
+
+#: includes/admin/views/ticket-types-list.php:38
+msgid "Name"
+msgstr ""
+
+#: includes/admin/views/ticket-types-list.php:39
+msgid "Price"
+msgstr ""
+
+#: includes/admin/views/ticket-types-list.php:40
+msgid "Early Bird"
+msgstr ""
+
+#: includes/admin/views/ticket-types-list.php:41
+msgid "Quantity"
+msgstr ""
+
+#: includes/admin/views/ticket-types-list.php:42
+msgid "Remaining"
+msgstr ""
+
+#: includes/admin/views/ticket-types-list.php:43
+msgid "Sold"
+msgstr ""
+
+#: includes/admin/views/ticket-types-list.php:44
+msgid "WooCommerce"
+msgstr ""
+
+#: includes/admin/views/ticket-types-list.php:45
+msgid "No ticket types found."
+msgstr ""
+
+#: includes/admin/views/ticket-types-list.php:46
+msgid "Create Ticket Type"
+msgstr ""
+
+#: includes/admin/views/ticket-type-form.php:12
+msgid "Edit Ticket Type"
+msgstr ""
+
+#: includes/admin/views/ticket-type-form.php:12
+msgid "Add New Ticket Type"
+msgstr ""
+
+#: includes/admin/views/ticket-type-form.php:13
+msgid "Back to Ticket Types"
+msgstr ""
+
+#: includes/admin/views/ticket-type-form.php:17
+msgid "Pricing"
+msgstr ""
+
+#: includes/admin/views/ticket-type-form.php:18
+msgid "Inventory"
+msgstr ""
+
+#: includes/admin/views/ticket-type-form.php:19
+msgid "Early Bird"
+msgstr ""
+
+#: includes/admin/views/ticket-type-form.php:20
+msgid "Details"
+msgstr ""
+
+#: includes/admin/views/ticket-type-form.php:21
+msgid "WooCommerce"
+msgstr ""
+
+#: includes/admin/views/ticket-type-form.php:25
+msgid "Event"
+msgstr ""
+
+#: includes/admin/views/ticket-type-form.php:28
+msgid "Ticket Name"
+msgstr ""
+
+#: includes/admin/views/ticket-type-form.php:32
+msgid "Ticket Type"
+msgstr ""
+
+#: includes/admin/views/ticket-type-form.php:36
+msgid "Description"
+msgstr ""
+
+#: includes/admin/views/ticket-type-form.php:40
+msgid "Image URL"
+msgstr ""
+
+#: includes/admin/views/ticket-type-form.php:44
+msgid "Category"
+msgstr ""
+
+#: includes/admin/views/ticket-type-form.php:48
+msgid "Color"
+msgstr ""
+
+#: includes/admin/views/ticket-type-form.php:54
+msgid "Regular Price"
+msgstr ""
+
+#: includes/admin/views/ticket-type-form.php:58
+msgid "Sale Price"
+msgstr ""
+
+#: includes/admin/views/ticket-type-form.php:64
+msgid "Total Quantity"
+msgstr ""
+
+#: includes/admin/views/ticket-type-form.php:68
+msgid "Max Tickets Per Customer"
+msgstr ""
+
+#: includes/admin/views/ticket-type-form.php:72
+msgid "Min Tickets Per Order"
+msgstr ""
+
+#: includes/admin/views/ticket-type-form.php:76
+msgid "People Allowed Per Ticket"
+msgstr ""
+
+#: includes/admin/views/ticket-type-form.php:82
+msgid "Early Bird Price"
+msgstr ""
+
+#: includes/admin/views/ticket-type-form.php:86
+msgid "Early Bird Quantity"
+msgstr ""
+
+#: includes/admin/views/ticket-type-form.php:90
+msgid "Early Bird Start"
+msgstr ""
+
+#: includes/admin/views/ticket-type-form.php:94
+msgid "Early Bird End"
+msgstr ""
+
+#: includes/admin/views/ticket-type-form.php:100
+msgid "Event Date"
+msgstr ""
+
+#: includes/admin/views/ticket-type-form.php:104
+msgid "Event Time"
+msgstr ""
+
+#: includes/admin/views/ticket-type-form.php:108
+msgid "Venue"
+msgstr ""
+
+#: includes/admin/views/ticket-type-form.php:112
+msgid "Address"
+msgstr ""
+
+#: includes/admin/views/ticket-type-form.php:116
+msgid "Ticket Features"
+msgstr ""
+
+#: includes/admin/views/ticket-type-form.php:120
+msgid "Terms & Conditions"
+msgstr ""
+
+#: includes/admin/views/ticket-type-form.php:124
+msgid "Refund Policy"
+msgstr ""
+
+#: includes/admin/views/ticket-type-form.php:128
+msgid "Custom Fields (JSON)"
+msgstr ""
+
+#: includes/admin/views/ticket-type-form.php:133
+msgid "WooCommerce Product"
+msgstr ""
+
+#: includes/admin/views/ticket-type-form.php:135
+msgid "Edit Product"
+msgstr ""
+
+#: includes/admin/views/ticket-type-form.php:136
+msgid "View Product"
+msgstr ""
+
+#: includes/admin/views/ticket-type-form.php:139
+msgid "Sync Status"
+msgstr ""
+
+#: includes/admin/views/ticket-type-form.php:140
+msgid "Sync with WooCommerce"
+msgstr ""
+
+#: includes/admin/views/ticket-type-form.php:146
+msgid "Update Ticket Type"
+msgstr ""
+
+#: includes/admin/views/ticket-type-form.php:146
+msgid "Create Ticket Type"
+msgstr ""
+
+#: includes/admin/views/tickets.php:12
+msgid "Tickets"
+msgstr ""
+
+#: includes/admin/views/tickets.php:20
+msgid "All Events"
+msgstr ""
+
+#: includes/admin/views/tickets.php:21
+msgid "All Statuses"
+msgstr ""
+
+#: includes/admin/views/tickets.php:28
+msgid "Search: Ticket ID, Name, Email, Phone..."
+msgstr ""
+
+#: includes/admin/views/tickets.php:29
+msgid "Reset"
+msgstr ""
+
+#: includes/admin/views/tickets.php:35
+msgid "Customer"
+msgstr ""
+
+#: includes/admin/views/tickets.php:36
+msgid "Email"
+msgstr ""
+
+#: includes/admin/views/tickets.php:37
+msgid "Phone"
+msgstr ""
+
+#: includes/admin/views/tickets.php:38
+msgid "Ticket Type"
+msgstr ""
+
+#: includes/admin/views/tickets.php:39
+msgid "Order"
+msgstr ""
+
+#: includes/admin/views/tickets.php:40
+msgid "Purchased"
+msgstr ""
+
+#: includes/admin/views/tickets.php:41
+msgid "Check-in"
+msgstr ""
+
+#: includes/admin/views/tickets.php:42
+msgid "View"
+msgstr ""
+
+#: includes/admin/views/tickets.php:44
+msgid "Resend"
+msgstr ""
+
+#: includes/admin/views/tickets.php:49
+msgid "Bulk Actions"
+msgstr ""
+
+#: includes/admin/views/tickets.php:50
+msgid "Resend Tickets"
+msgstr ""
+
+#: includes/admin/views/tickets.php:51
+msgid "Cancel Tickets"
+msgstr ""
+
+#: includes/admin/views/tickets.php:52
+msgid "Regenerate QR Codes"
+msgstr ""
+
+#: includes/admin/views/tickets.php:53
+msgid "Export CSV"
+msgstr ""
+
+#: includes/admin/views/tickets.php:54
+msgid "Apply"
+msgstr ""
+
+#: includes/admin/views/tickets.php:62
+msgid "No tickets found."
+msgstr ""
+
+#: includes/admin/views/scanner.php:12
+msgid "Ticket Scanner"
+msgstr ""
+
+#: includes/admin/views/scanner.php:14
+msgid "Select Event"
+msgstr ""
+
+#: includes/admin/views/scanner.php:24
+msgid "Checked In Today"
+msgstr ""
+
+#: includes/admin/views/scanner.php:26
+msgid "Total Sold"
+msgstr ""
+
+#: includes/admin/views/scanner.php:28
+msgid "Remaining"
+msgstr ""
+
+#: includes/admin/views/scanner.php:30
+msgid "Check-in Rate"
+msgstr ""
+
+#: includes/admin/views/scanner.php:36
+msgid "Select an event to start scanning"
+msgstr ""
+
+#: includes/admin/views/scanner.php:37
+msgid "Choose an event from the dropdown above to begin scanning tickets."
+msgstr ""
+
+#: includes/admin/views/scanner.php:41
+msgid "Start Camera"
+msgstr ""
+
+#: includes/admin/views/scanner.php:44
+msgid "Stop Camera"
+msgstr ""
+
+#: includes/admin/views/scanner.php:47
+msgid "Switch Camera"
+msgstr ""
+
+#: includes/admin/views/scanner.php:50
+msgid "Manual Verification"
+msgstr ""
+
+#: includes/admin/views/scanner.php:52
+msgid "Ticket ID (e.g., EVT-2026-000001)"
+msgstr ""
+
+#: includes/admin/views/scanner.php:53
+msgid "Secure Token (from QR)"
+msgstr ""
+
+#: includes/admin/views/scanner.php:54
+msgid "Verify"
+msgstr ""
+
+#: includes/admin/views/scanner.php:58
+msgid "Recent Scans"
+msgstr ""
+
+#: includes/admin/views/scanner.php:60
+msgid "Time"
+msgstr ""
+
+#: includes/admin/views/scanner.php:61
+msgid "Type"
+msgstr ""
+
+#: includes/admin/views/scanner.php:62
+msgid "Result"
+msgstr ""
+
+#: includes/admin/views/scanner.php:63
+msgid "Staff"
+msgstr ""
+
+#: includes/admin/views/scanner.php:67
+msgid "No scans yet."
+msgstr ""
+
+#: includes/admin/views/checkins.php:12
+msgid "Check-ins"
+msgstr ""
+
+#: includes/admin/views/checkins.php:18
+msgid "All Results"
+msgstr ""
+
+#: includes/admin/views/checkins.php:19
+msgid "Valid"
+msgstr ""
+
+#: includes/admin/views/checkins.php:20
+msgid "Already Used"
+msgstr ""
+
+#: includes/admin/views/checkins.php:21
+msgid "Invalid"
+msgstr ""
+
+#: includes/admin/views/checkins.php:22
+msgid "Cancelled"
+msgstr ""
+
+#: includes/admin/views/checkins.php:23
+msgid "Refunded"
+msgstr ""
+
+#: includes/admin/views/checkins.php:24
+msgid "Expired"
+msgstr ""
+
+#: includes/admin/views/checkins.php:25
+msgid "Blocked"
+msgstr ""
+
+#: includes/admin/views/checkins.php:28
+msgid "Total Scans"
+msgstr ""
+
+#: includes/admin/views/checkins.php:30
+msgid "Valid Check-ins"
+msgstr ""
+
+#: includes/admin/views/checkins.php:32
+msgid "Rejected"
+msgstr ""
+
+#: includes/admin/views/checkins.php:35
+msgid "Staff Performance"
+msgstr ""
+
+#: includes/admin/views/checkins.php:36
+msgid "Total Scans"
+msgstr ""
+
+#: includes/admin/views/checkins.php:37
+msgid "Valid"
+msgstr ""
+
+#: includes/admin/views/checkins.php:38
+msgid "Rejected"
+msgstr ""
+
+#: includes/admin/views/checkins.php:39
+msgid "First Scan"
+msgstr ""
+
+#: includes/admin/views/checkins.php:40
+msgid "Last Scan"
+msgstr ""
+
+#: includes/admin/views/checkins.php:44
+msgid "IP Address"
+msgstr ""
+
+#: includes/admin/views/checkins.php:52
+msgid "Check-ins by Hour"
+msgstr ""
+
+#: includes/admin/views/checkins.php:55
+msgid "No check-in data available."
+msgstr ""
+
+#: includes/admin/views/staff-list.php:12
+msgid "Event Staff"
+msgstr ""
+
+#: includes/admin/views/staff-list.php:13
+msgid "Add Staff"
+msgstr ""
+
+#: includes/admin/views/staff-list.php:18
+msgid "Staff member saved successfully."
+msgstr ""
+
+#: includes/admin/views/staff-list.php:20
+msgid "Staff member deleted successfully."
+msgstr ""
+
+#: includes/admin/views/staff-list.php:25
+msgid "Please select an event from the dropdown to view its staff."
+msgstr ""
+
+#: includes/admin/views/staff-list.php:30
+msgid "Name"
+msgstr ""
+
+#: includes/admin/views/staff-list.php:31
+msgid "Email"
+msgstr ""
+
+#: includes/admin/views/staff-list.php:32
+msgid "Role"
+msgstr ""
+
+#: includes/admin/views/staff-list.php:33
+msgid "Event"
+msgstr ""
+
+#: includes/admin/views/staff-list.php:34
+msgid "Active"
+msgstr ""
+
+#: includes/admin/views/staff-list.php:35
+msgid "Inactive"
+msgstr ""
+
+#: includes/admin/views/staff-list.php:36
+msgid "Added"
+msgstr ""
+
+#: includes/admin/views/staff-list.php:37
+msgid "No staff members assigned."
+msgstr ""
+
+#: includes/admin/views/staff-form.php:12
+msgid "Edit Staff Member"
+msgstr ""
+
+#: includes/admin/views/staff-form.php:12
+msgid "Add Staff Member"
+msgstr ""
+
+#: includes/admin/views/staff-form.php:13
+msgid "Back to Staff"
+msgstr ""
+
+#: includes/admin/views/staff-form.php:17
+msgid "User"
+msgstr ""
+
+#: includes/admin/views/staff-form.php:20
+msgid "Select a user"
+msgstr ""
+
+#: includes/admin/views/staff-form.php:24
+msgid "Scanner"
+msgstr ""
+
+#: includes/admin/views/staff-form.php:25
+msgid "Manager"
+msgstr ""
+
+#: includes/admin/views/staff-form.php:26
+msgid "Admin"
+msgstr ""
+
+#: includes/admin/views/staff-form.php:29
+msgid "Custom Permissions (JSON)"
+msgstr ""
+
+#: includes/admin/views/staff-form.php:34
+msgid "Active"
+msgstr ""
+
+#: includes/admin/views/staff-form.php:39
+msgid "Update Staff"
+msgstr ""
+
+#: includes/admin/views/staff-form.php:39
+msgid "Add Staff Member"
+msgstr ""
+
+#: includes/admin/views/reports.php:12
+msgid "Reports"
+msgstr ""
+
+#: includes/admin/views/reports.php:16
+msgid "Sales Report"
+msgstr ""
+
+#: includes/admin/views/reports.php:17
+msgid "Check-in Report"
+msgstr ""
+
+#: includes/admin/views/reports.php:18
+msgid "Customer Report"
+msgstr ""
+
+#: includes/admin/views/reports.php:19
+msgid "Revenue Report"
+msgstr ""
+
+#: includes/admin/views/reports.php:22
+msgid "Date From"
+msgstr ""
+
+#: includes/admin/views/reports.php:24
+msgid "Date To"
+msgstr ""
+
+#: includes/admin/views/reports.php:25
+msgid "Generate Report"
+msgstr ""
+
+#: includes/admin/views/reports.php:26
+msgid "Export CSV"
+msgstr ""
+
+#: includes/admin/views/reports.php:29
+msgid "Ticket ID"
+msgstr ""
+
+#: includes/admin/views/reports.php:30
+msgid "Event"
+msgstr ""
+
+#: includes/admin/views/reports.php:31
+msgid "Ticket Type"
+msgstr ""
+
+#: includes/admin/views/reports.php:32
+msgid "Customer"
+msgstr ""
+
+#: includes/admin/views/reports.php:33
+msgid "Quantity"
+msgstr ""
+
+#: includes/admin/views/reports.php:34
+msgid "Price"
+msgstr ""
+
+#: includes/admin/views/reports.php:35
+msgid "Total"
+msgstr ""
+
+#: includes/admin/views/reports.php:36
+msgid "Customer"
+msgstr ""
+
+#: includes/admin/views/reports.php:37
+msgid "Email"
+msgstr ""
+
+#: includes/admin/views/reports.php:38
+msgid "Phone"
+msgstr ""
+
+#: includes/admin/views/reports.php:39
+msgid "Tickets"
+msgstr ""
+
+#: includes/admin/views/reports.php:40
+msgid "Total Qty"
+msgstr ""
+
+#: includes/admin/views/reports.php:41
+msgid "Total Spent"
+msgstr ""
+
+#: includes/admin/views/reports.php:42
+msgid "Last Purchase"
+msgstr ""
+
+#: includes/admin/views/reports.php:46
+msgid "Date"
+msgstr ""
+
+#: includes/admin/views/reports.php:47
+msgid "Tickets Sold"
+msgstr ""
+
+#: includes/admin/views/reports.php:48
+msgid "Quantity"
+msgstr ""
+
+#: includes/admin/views/reports.php:49
+msgid "Revenue"
+msgstr ""
+
+#: includes/admin/views/reports.php:52
+msgid "Total Revenue"
+msgstr ""
+
+#: includes/admin/views/reports.php:53
+msgid "Tickets Sold"
+msgstr ""
+
+#: includes/admin/views/settings.php:12
+msgid "Event Tickets Settings"
+msgstr ""
+
+#: includes/admin/views/settings.php:15
+msgid "General"
+msgstr ""
+
+#: includes/admin/views/settings.php:17
+msgid "Currency"
+msgstr ""
+
+#: includes/admin/views/settings.php:22
+msgid "Ticket ID Format"
+msgstr ""
+
+#: includes/admin/views/settings.php:27
+msgid "Timezone"
+msgstr ""
+
+#: includes/admin/views/settings.php:32
+msgid "WooCommerce Integration"
+msgstr ""
+
+#: includes/admin/views/settings.php:34
+msgid "Ticket Generation Order Statuses"
+msgstr ""
+
+#: includes/admin/views/settings.php:39
+msgid "Refund Behavior"
+msgstr ""
+
+#: includes/admin/views/settings.php:40
+msgid "Automatically cancel tickets when order is refunded"
+msgstr ""
+
+#: includes/admin/views/settings.php:43
+msgid "Cancellation Behavior"
+msgstr ""
+
+#: includes/admin/views/settings.php:44
+msgid "Invalidate tickets when order is cancelled"
+msgstr ""
+
+#: includes/admin/views/settings.php:48
+msgid "QR Code"
+msgstr ""
+
+#: includes/admin/views/settings.php:50
+msgid "QR Token Expiration"
+msgstr ""
+
+#: includes/admin/views/settings.php:53
+msgid "Allow QR Regeneration"
+msgstr ""
+
+#: includes/admin/views/settings.php:54
+msgid "Allow admins to regenerate QR codes (invalidates previous)"
+msgstr ""
+
+#: includes/admin/views/settings.php:58
+msgid "Email"
+msgstr ""
+
+#: includes/admin/views/settings.php:60
+msgid "Sender Name"
+msgstr ""
+
+#: includes/admin/views/settings.php:63
+msgid "Sender Email"
+msgstr ""
+
+#: includes/admin/views/settings.php:66
+msgid "Default Subject"
+msgstr ""
+
+#: includes/admin/views/settings.php:69
+msgid "PDF Attachment"
+msgstr ""
+
+#: includes/admin/views/settings.php:70
+msgid "Attach PDF ticket to confirmation email"
+msgstr ""
+
+#: includes/admin/views/settings.php:74
+msgid "Scanner"
+msgstr ""
+
+#: includes/admin/views/settings.php:76
+msgid "Sound Effects"
+msgstr ""
+
+#: includes/admin/views/settings.php:77
+msgid "Play sound on scan result"
+msgstr ""
+
+#: includes/admin/views/settings.php:80
+msgid "Vibration"
+msgstr ""
+
+#: includes/admin/views/settings.php:81
+msgid "Vibrate on scan (mobile devices)"
+msgstr ""
+
+#: includes/admin/views/settings.php:84
+msgid "Auto Next Scan"
+msgstr ""
+
+#: includes/admin/views/settings.php:85
+msgid "Automatically start next scan after result"
+msgstr ""
+
+#: includes/admin/views/settings.php:88
+msgid "Manual Verification"
+msgstr ""
+
+#: includes/admin/views/settings.php:89
+msgid "Allow manual ticket ID/token entry"
+msgstr ""
+
+#: includes/admin/views/settings.php:93
+msgid "Security"
+msgstr ""
+
+#: includes/admin/views/settings.php:95
+msgid "Allow Late Check-in"
+msgstr ""
+
+#: includes/admin/views/settings.php:96
+msgid "Allow check-in after event end time"
+msgstr ""
+
+#: includes/admin/views/settings.php:99
+msgid "Rate Limit (requests/minute)"
+msgstr ""
+
+#: includes/admin/views/settings.php:102
+msgid "PDF Ticket"
+msgstr ""
+
+#: includes/admin/views/settings.php:104
+msgid "PDF Library"
+msgstr ""
+
+#: includes/admin/views/settings.php:109
+msgid "Save Settings"
+msgstr ""
+
+#: includes/emails/ticket_confirmation.php:14
+msgid "Your Ticket is Confirmed – %s"
+msgstr ""
+
+#: includes/emails/ticket_confirmation.php:24
+msgid "Your Ticket is Confirmed"
+msgstr ""
+
+#: includes/emails/ticket_confirmation.php:29
+msgid "Event"
+msgstr ""
+
+#: includes/emails/ticket_confirmation.php:31
+msgid "Ticket Type"
+msgstr ""
+
+#: includes/emails/ticket_confirmation.php:35
+msgid "Date & Time"
+msgstr ""
+
+#: includes/emails/ticket_confirmation.php:38
+msgid "Ticket ID"
+msgstr ""
+
+#: includes/emails/ticket_confirmation.php:44
+msgid "Venue"
+msgstr ""
+
+#: includes/emails/ticket_confirmation.php:47
+msgid "Attendees"
+msgstr ""
+
+#: includes/emails/ticket_confirmation.php:52
+msgid "Show this QR code at the event entrance"
+msgstr ""
+
+#: includes/emails/ticket_confirmation.php:54
+msgid "QR Code for verification"
+msgstr ""
+
+#: includes/emails/ticket_confirmation.php:57
+msgid "View Ticket"
+msgstr ""
+
+#: includes/emails/ticket_confirmation.php:58
+msgid "Download PDF"
+msgstr ""
+
+#: includes/emails/ticket_confirmation.php:61
+msgid "Important Information"
+msgstr ""
+
+#: includes/emails/ticket_confirmation.php:63
+msgid "Bring a valid photo ID along with this ticket."
+msgstr ""
+
+#: includes/emails/ticket_confirmation.php:64
+msgid "This QR code can only be used once. Screenshots may not work."
+msgstr ""
+
+#: includes/emails/ticket_confirmation.php:65
+msgid "Arrive at least 30 minutes before the event start time."
+msgstr ""
+
+#: includes/emails/ticket_confirmation.php:66
+msgid "Tickets are non-transferable unless authorized by the organizer."
+msgstr ""
+
+#: includes/shortcodes/class-wet-shortcodes.php:18
+msgid "No events found."
+msgstr ""
+
+#: includes/shortcodes/class-wet-shortcodes.php:29
+msgid "Event not found."
+msgstr ""
+
+#: includes/shortcodes/class-wet-shortcodes.php:42
+msgid "Event ID is required."
+msgstr ""
+
+#: includes/shortcodes/class-wet-shortcodes.php:45
+msgid "No ticket types available."
+msgstr ""
+
+#: includes/shortcodes/class-wet-shortcodes.php:53
+msgid "Please log in to view your tickets."
+msgstr ""
+
+#: includes/shortcodes/class-wet-shortcodes.php:61
+msgid "Access denied. Staff only."
+msgstr ""
+
+#: includes/templates/shortcode-events.php:15
+msgid "Upcoming"
+msgstr ""
+
+#: includes/templates/shortcode-events.php:15
+msgid "Ongoing"
+msgstr ""
+
+#: includes/templates/shortcode-events.php:15
+msgid "Past"
+msgstr ""
+
+#: includes/templates/shortcode-events.php:21
+msgid "Sold"
+msgstr ""
+
+#: includes/templates/shortcode-events.php:22
+msgid "Left"
+msgstr ""
+
+#: includes/templates/shortcode-events.php:25
+msgid "View Tickets"
+msgstr ""
+
+#: includes/templates/shortcode-event.php:18
+msgid "About This Event"
+msgstr ""
+
+#: includes/templates/shortcode-event.php:22
+msgid "Available Tickets"
+msgstr ""
+
+#: includes/templates/shortcode-event.php:27
+msgid "Early Bird"
+msgstr ""
+
+#: includes/templates/shortcode-event.php:31
+msgid "Buy Now"
+msgstr ""
+
+#: includes/templates/shortcode-event.php:32
+msgid "Sold Out"
+msgstr ""
+
+#: includes/templates/shortcode-event.php:35
+msgid "Organizer"
+msgstr ""
+
+#: includes/templates/shortcode-ticket-types.php:16
+msgid "Early Bird"
+msgstr ""
+
+#: includes/templates/shortcode-ticket-types.php:21
+msgid "Buy Now"
+msgstr ""
+
+#: includes/templates/shortcode-ticket-types.php:22
+msgid "Sold Out"
+msgstr ""
+
+#: includes/templates/shortcode-ticket-types.php:24
+msgid "remaining"
+msgstr ""
+
+#: includes/templates/shortcode-ticket-types.php:25
+msgid "Sold Out"
+msgstr ""
+
+#: includes/templates/shortcode-my-tickets.php:3
+msgid "No Tickets Yet"
+msgstr ""
+
+#: includes/templates/shortcode-my-tickets.php:4
+msgid "You haven't purchased any tickets yet."
+msgstr ""
+
+#: includes/templates/shortcode-my-tickets.php:5
+msgid "Browse Events"
+msgstr ""
+
+#: includes/templates/shortcode-my-tickets.php:8
+msgid "My Tickets"
+msgstr ""
+
+#: includes/templates/shortcode-my-tickets.php:17
+msgid "Ticket ID"
+msgstr ""
+
+#: includes/templates/shortcode-my-tickets.php:19
+msgid "Event"
+msgstr ""
+
+#: includes/templates/shortcode-my-tickets.php:21
+msgid "Date"
+msgstr ""
+
+#: includes/templates/shortcode-my-tickets.php:23
+msgid "Time"
+msgstr ""
+
+#: includes/templates/shortcode-my-tickets.php:25
+msgid "Venue"
+msgstr ""
+
+#: includes/templates/shortcode-my-tickets.php:27
+msgid "Attendees"
+msgstr ""
+
+#: includes/templates/shortcode-my-tickets.php:29
+msgid "Checked In"
+msgstr ""
+
+#: includes/templates/shortcode-my-tickets.php:33
+msgid "View Ticket"
+msgstr ""
+
+#: includes/templates/shortcode-my-tickets.php:34
+msgid "Download PDF"
+msgstr ""
+
+#: includes/templates/shortcode-my-tickets.php:36
+msgid "Refunded"
+msgstr ""
+
+#: includes/templates/shortcode-my-tickets.php:36
+msgid "Cancelled"
+msgstr ""
+
+#: includes/templates/shortcode-verify.php:5
+msgid "Verify Your Ticket"
+msgstr ""
+
+#: includes/templates/shortcode-verify.php:6
+msgid "Enter your Ticket ID or scan the QR code to verify your ticket."
+msgstr ""
+
+#: includes/templates/shortcode-verify.php:9
+msgid "Verify"
+msgstr ""
+
+#: includes/templates/shortcode-verify.php:15
+msgid "Ticket Not Found"
+msgstr ""
+
+#: includes/templates/shortcode-verify.php:16
+msgid "The ticket you're looking for doesn't exist."
+msgstr ""
+
+#: includes/templates/shortcode-verify.php:22
+msgid "Ticket ID (e.g., EVT-2026-000001)"
+msgstr ""
+
+#: includes/templates/shortcode-verify.php:25
+msgid "Verify"
+msgstr ""
+
+#: includes/templates/shortcode-verify.php:35
+msgid "VALID TICKET"
+msgstr ""
+
+#: includes/templates/shortcode-verify.php:42
+msgid "Attendee"
+msgstr ""
+
+#: includes/templates/shortcode-verify.php:43
+msgid "Attendees Allowed"
+msgstr ""
+
+#: includes/templates/shortcode-verify.php:44
+msgid "Event Date"
+msgstr ""
+
+#: includes/templates/shortcode-verify.php:45
+msgid "Event Time"
+msgstr ""
+
+#: includes/templates/shortcode-verify.php:46
+msgid "Venue"
+msgstr ""
+
+#: includes/templates/shortcode-verify.php:47
+msgid "Order"
+msgstr ""
+
+#: includes/templates/shortcode-verify.php:48
+msgid "Checked In"
+msgstr ""
+
+#: includes/templates/shortcode-verify.php:51
+msgid "Download PDF"
+msgstr ""
+
+#: includes/templates/shortcode-verify.php:52
+msgid "Back to My Tickets"
+msgstr ""
+
+#: includes/templates/shortcode-scanner.php:3
+msgid "Ticket Scanner"
+msgstr ""
+
+#: includes/templates/shortcode-scanner.php:5
+msgid "Access Denied"
+msgstr ""
+
+#: includes/templates/shortcode-scanner.php:6
+msgid "This page is for authorized staff only."
+msgstr ""
+
+#: includes/templates/shortcode-scanner.php:10
+msgid "Select Event"
+msgstr ""
+
+#: includes/templates/shortcode-scanner.php:15
+msgid "Select an event to start scanning"
+msgstr ""
+
+#: includes/templates/shortcode-scanner.php:20
+msgid "Start Camera"
+msgstr ""
+
+#: includes/templates/shortcode-scanner.php:23
+msgid "Stop Camera"
+msgstr ""
+
+#: includes/templates/shortcode-scanner.php:26
+msgid "Switch Camera"
+msgstr ""
+
+#: includes/templates/shortcode-scanner.php:29
+msgid "Manual Verification"
+msgstr ""
+
+#: includes/templates/shortcode-scanner.php:31
+msgid "Ticket ID"
+msgstr ""
+
+#: includes/templates/shortcode-scanner.php:32
+msgid "Secure Token"
+msgstr ""
+
+#: includes/templates/shortcode-scanner.php:33
+msgid "Verify"
+msgstr ""
+
+#: includes/widgets.php:12
+msgid "WET: Recent Check-ins"
+msgstr ""
+
+#: includes/widgets.php:14
+msgid "Display recent check-ins for an event."
+msgstr ""
+
+#: includes/widgets.php:22
+msgid "Recent Check-ins"
+msgstr ""
+
+#: includes/widgets.php:29
+msgid "No check-ins yet."
+msgstr ""
+
+#: includes/widgets.php:34
+msgid "Title:"
+msgstr ""
+
+#: includes/widgets.php:37
+msgid "Event:"
+msgstr ""
+
+#: includes/widgets.php:38
+msgid "All Events"
+msgstr ""
+
+#: includes/widgets.php:41
+msgid "Number of items:"
+msgstr ""
+
+#: includes/widgets.php:53
+msgid "WET: Event Revenue"
+msgstr ""
+
+#: includes/widgets.php:55
+msgid "Display revenue summary for an event."
+msgstr ""
+
+#: includes/widgets.php:63
+msgid "Event Revenue"
+msgstr ""
+
+#: includes/widgets.php:69
+msgid "Total Sold"
+msgstr ""
+
+#: includes/widgets.php:71
+msgid "Checked In"
+msgstr ""
+
+#: includes/widgets.php:73
+msgid "Remaining"
+msgstr ""
+
+#: includes/widgets.php:75
+msgid "Revenue"
+msgstr ""
+
+#: includes/widgets.php:82
+msgid "Select Event"
+msgstr ""
